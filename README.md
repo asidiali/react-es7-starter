@@ -19,8 +19,8 @@ A boilerplate React front-end written in ES7.
 2. Navigate to `http://localhost:8080/` to view the app
 
 
-#### Contributors
+## Contributors
 - Adam Sidiali [[Gh](http://github.com/asidiali)] [[Tw](http://twitter.com/adamsidiali)]
 
-#### License
-MIT [[LICENSE.md](https://github.com/asidiali/react-es7-starter/blob/master/LICENSE.md)]
+## License
+MIT [[LICENSE](https://github.com/asidiali/react-es7-starter/blob/master/LICENSE.md)]
