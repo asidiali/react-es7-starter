@@ -7,7 +7,7 @@ A boilerplate React front-end written in ES7.
 - `babel` to transpile the ES7
 - `eslint` and `eslint-config-airbnb` for clean code composition
 - `react-router` to handle nav structure of app
-- `radium` to handle CSS media queries, hover
+- `radium` to handle CSS media queries, hover states
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/adamsidiali/react-es7-starter.git`
