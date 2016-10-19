@@ -19,5 +19,5 @@ A boilerplate React front-end written in ES7.
 2. Navigate to `http://localhost:8080/` to view the app
 
 
-# Contributors
-- Adam Sidiali [[Github](http://github.com/adamsidiali)]
+## Contributors
+- Adam Sidiali [[Gh](http://github.com/adamsidiali)] [[Tw](http://twitter.com/adamsidiali)]
