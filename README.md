@@ -10,7 +10,7 @@ A boilerplate React front-end written in ES7.
 - `radium` to handle CSS media queries, hover states
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/adamsidiali/react-es7-starter.git`
+1. Clone the repo: `git clone https://github.com/asidiali/react-es7-starter.git`
 2. Navigate to the repo folder and install dependencies: `npm i`
 3. Install Webpack globally if you don't have it (optional): `npm i -g webpack`
 
@@ -20,4 +20,4 @@ A boilerplate React front-end written in ES7.
 
 
 ## Contributors
-- Adam Sidiali [[Gh](http://github.com/adamsidiali)] [[Tw](http://twitter.com/adamsidiali)]
+- Adam Sidiali [[Gh](http://github.com/asidiali)] [[Tw](http://twitter.com/adamsidiali)]
