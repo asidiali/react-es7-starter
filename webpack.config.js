@@ -1,5 +1,5 @@
-import HtmlWebpackPlugin from 'html-webpack-plugin';
-import webpack from 'webpack';
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const webpack = require('webpack');
 
 module.exports = {
   name: 'client',
@@ -7,7 +7,7 @@ module.exports = {
     'babel-polyfill',
     'webpack-dev-server/client?http://localhost:8080',
     'webpack/hot/only-dev-server',
-    './src/core/index.js',
+    './src/_core/index.js',
   ],
   output: {
     path: './',
@@ -33,7 +33,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'react-es7-starter',
-      template: './src/core/index.html',
+      template: './src/_core/index.html',
     }),
     new webpack.HotModuleReplacementPlugin(),
   ],
