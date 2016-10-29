@@ -1,7 +1,7 @@
 import {
   Route,
   Router,
-  browserHistory,
+  hashHistory,
 } from 'react-router';
 
 import App from './app';
@@ -13,7 +13,7 @@ import {render}             from 'react-dom';
 
 function run() {
   render(
-    <Router history={browserHistory}>
+    <Router history={hashHistory}>
       <Route component={App}>
         <Route path="/" component={HomeView} />
       </Route>
