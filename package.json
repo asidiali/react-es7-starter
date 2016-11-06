@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamsidiali/react-es7-starter.git"
+    "url": "https://github.com/asidiali/react-es7-starter.git"
   },
   "author": "adamsidiali",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/adamsidiali/react-es7-starter/issues"
+    "url": "https://github.com/asidiali/react-es7-starter/issues"
   },
-  "homepage": "https://github.com/adamsidiali/react-es7-starter#readme",
+  "homepage": "https://github.com/asidiali/react-es7-starter#readme",
   "devDependencies": {
     "babel-core": "^6.17.0",
     "babel-eslint": "^7.0.0",
