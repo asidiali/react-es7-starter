@@ -21,6 +21,7 @@ A boilerplate React front-end written in ES7.
 
 ## Contributors
 - Adam Sidiali [[Gh](http://github.com/asidiali)] [[Tw](http://twitter.com/adamsidiali)]
+- Romina Barrett [[Gh](http://github.com/yayromina)] [[Tw](http://twitter.com/yayromina)]
 
 ## License
 MIT [[LICENSE](https://github.com/asidiali/react-es7-starter/blob/master/LICENSE.md)]

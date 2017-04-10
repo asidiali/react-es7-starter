@@ -7,7 +7,7 @@ import {
 import App from './app';
 import {
   HomeView,
-} from '../views';
+} from 'imports/components/views';
 import React from 'react';
 import {render}             from 'react-dom';
 
